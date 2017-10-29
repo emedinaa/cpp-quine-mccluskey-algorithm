@@ -1,0 +1,3 @@
+/Users/emedinaa/Documents/UIGV/MatematicaDiscreta/Repo/cpp-quine-mccluskey-algorithm/QMC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/emedinaa/Documents/UIGV/MatematicaDiscreta/Repo/cpp-quine-mccluskey-algorithm/QMC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emedinaa/Documents/UIGV/MatematicaDiscreta/Repo/cpp-quine-mccluskey-algorithm/QMC/cmake-build-debug/CMakeFiles/QMC.dir
